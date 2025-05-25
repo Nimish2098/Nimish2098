@@ -53,8 +53,5 @@ Check out my pinned repositories below 👇
 
 ---
 
-### 🧭 Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="Profile views" />
-</p>
+
 
