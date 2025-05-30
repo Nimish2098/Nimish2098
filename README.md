@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Nimish  
-### 🤖 AI Enthusiast | 📚 Lifelong Learner | 💻 Code Explorer
+### 🤖 AI Enthusiast 
 
 I'm an aspiring AI enthusiast diving deep into the world of Artificial Intelligence, Machine Learning, and Deep Learning. I enjoy building intelligent systems, exploring neural networks, and solving real-world problems using data and code.
 
