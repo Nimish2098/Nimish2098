@@ -6,7 +6,7 @@ I'm an aspiring AI enthusiast diving deep into the world of Artificial Intellige
 ---
 
 ### 🧠 What I’m Currently Learning
-- Machine Learning with scikit-learn
+- Machine Learning with scikitlearn
 - Deep Learning with TensorFlow & PyTorch
 - Computer Vision and Natural Language Processing
 - Prompt Engineering & LLMs
