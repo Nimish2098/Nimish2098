@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Nimish  
-I'm learning Artificial Intelligence, Machine Learning, and Deep Learning. I enjoy building intelligent systems, exploring neural networks, and solving real-world problems using data and code.
+I'm learning Artificial Intelligence, Machine Learning, and Deep Learning. I enjoy building intelligent systems, exploring neural networks, and solving real-world problems using data and code
 
 ---
 
