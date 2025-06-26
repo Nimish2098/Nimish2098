@@ -1,3 +1,12 @@
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/nimish2098/nimish2098/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nimish2098/nimish2098/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/nimish2098/nimish2098/output-3d-contrib/day.svg" />
+	</picture>
+</p>
+
+
 # Hi there 👋, I'm Nimish  
 I'm learning Artificial Intelligence, Machine Learning, and Deep Learning. I enjoy building intelligent systems, exploring neural networks, and solving real-world problems using data and code
 
@@ -33,13 +42,6 @@ Check out my pinned repositories below 👇
 ---
 
 ### 📈 GitHub Stats
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/<nimish2098>/<repository>/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<nimish2098>/<repository>/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/<nimish2098>/<repository>/output-3d-contrib/day.svg" />
-	</picture>
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nimish2098&show_icons=true&theme=github_dark" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Nimish2098&theme=dark" width="48%" />
