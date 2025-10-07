@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimish2098" alt="nimish2098" /></a> </p>
 
-- 🔭 I’m currently working on **Real Time Chat Application**
+- 🔭 I’m currently working on **AI Finance Manager**
 
 - 🌱 I’m currently learning **Spring Boot, Hibernate, JUnit, Angular, TypeScript**
 
