@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 
-- 🔭 I’m currently working on **AI Finance Manager**
-
 - 🌱 I’m currently learning **Spring Boot, Hibernate, JUnit, Angular, TypeScript**
 
 - 📫 How to reach me **raonimish25@gmail.com**
