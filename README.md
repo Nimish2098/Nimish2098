@@ -25,5 +25,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nimish2098&icon=0&color=3)](https://visitcount.itsvg.in)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/Nimish2098?theme=dark&font=baloo&ext=heatmap)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
