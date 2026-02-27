@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-🔭 **I’m currently working on** building scalable microservices and full-stack web applications.
+🔭 **I’m currently working on** my DocApproval Project converting it for a more specific domain.
 
 👯 **I’m looking to collaborate on** Open Source Java or Angular projects that solve real-world problems.
 
