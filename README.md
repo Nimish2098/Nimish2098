@@ -4,6 +4,17 @@
   </a>
 </p>
 
+> **Software Developer** deeply invested in building **scalable, data-driven applications**. 
+> Currently specializing in the **Java/Spring Boot** ecosystem and exploring the intersection of **AI & Finance**.
+
+### 🛠️ Core Focus
+> **Backend Architecture:** Designing robust microservices and RESTful APIs using **Java 17+** and **Spring Boot**.
+> **Data Intelligence:** Leveraging **MySQL**, **Redis**, and **NoSQL** to manage complex datasets and high-concurrency environments.
+> **FinTech & AI:** Engineering automated document processing and financial tracking tools that transform raw data into actionable insights.
+
+### 🧪 Engineering Philosophy
+> I believe in writing code that is not just functional, but **maintainable** and **scalable**. My projects reflect a commitment to clean     architecture, comprehensive documentation, and containerized deployment with **Docker**.
+
 <p align="center">
   <a href="https://skillicons.dev">
 <img src = "https://skillicons.dev/icons?i=java,python,html,css,mysql,spring,fastapi,docker,git,mongodb"/>
