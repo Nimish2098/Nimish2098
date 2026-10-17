@@ -37,11 +37,3 @@
 </tr>
 </table><!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-<p align="center">
-  <br />
-  <br />
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Bungee&pause=1000&duration=5000&color=82AAFF&center=true&vCenter=true&multiline=true&width=435&height=130&separator=%3C&lines=UPDATE+coffee_machine+%3C+SET+status+%3D+'Double+Espresso'+%3CWHERE+user_id+%3D+'Nimish';" alt="Typing SVG" />
-  </a>
-</p>
